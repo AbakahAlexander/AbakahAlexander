@@ -37,9 +37,19 @@ I'm an **Electrical Engineering** student at **Caltech**, with a strong interest
 
 ---
 
-### 📊 GitHub Stats  
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbakahAlexander&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbakahAlexander&layout=compact&theme=radical)  
+### 📊 **GitHub Stats (Percentages Simulation)**
+
+**Contributions:**  
+- 🟩 **90%** of my contributions are to open-source projects, based on this week's activity.
+
+**Commits:**  
+- 🔵 **75%** of my commits are in Python, contributing to several machine learning and hardware simulation projects.
+
+**Languages:**  
+- 🟣 **60%** of my code is in C/C++, used primarily for low-level hardware design.
+- 🟠 **25%** is in Python, working on AI models and data analysis.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbakahAlexander&layout=compact&theme=radical)
 
 ---
 
