@@ -2,7 +2,7 @@
 
 ### 🚀 Passionate about Hardware, Software & AI  
 
-I'm an **Electrical Engineering** student, with a strong interest in **Computer Science**, **AI**, and **Microarchitecture**. I love building **hardware-software bridges**, working on **circuit simulation**, **processor design**, and **AI-driven applications**.
+Computer Engineer with a strong background in hardware development, software engineering, and AI-driven solutions. Passionate about bridging the gap between hardware and software, developing efficient systems, and creating impactful technology for real-world applications.
 
 ---
 
@@ -19,16 +19,6 @@ I'm an **Electrical Engineering** student, with a strong interest in **Computer 
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbakahAlexander&layout=compact&theme=radical)
-
----
-
-### 🌱 Currently Learning  
-- **Advanced Microarchitecture** (Cache Design, Out-of-Order Execution)  
-- **Full-Stack Development** (Backend for AI-driven apps)  
-- **System level projects**  
-
----
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-a-519445204/)  
