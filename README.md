@@ -19,7 +19,7 @@ I'm an **Electrical Engineering** student at **Caltech**, with a strong interest
 ---
 
 ### 📊 GitHub Stats  
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbakahAlexander&show_icons=true&theme=radical)  
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbakahAlexander&show_icons=true&theme=radical&count_private=true&hide=prs&include_all_commits=true&hide_title=true&card_width=400&hide_rank=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&show_owner=true&disable_animations=true&layout=compact&langs_count=5&hide_commits=true&hide_social_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbakahAlexander&layout=compact&theme=radical)  
 
 ---
