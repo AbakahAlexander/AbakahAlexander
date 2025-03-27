@@ -19,7 +19,7 @@ I'm an **Electrical Engineering** student at **Caltech**, with a strong interest
 
 ---
 
-### 📊 **GitHub Stats (Percentages Simulation)**
+### 📊 **GitHub Stats**
 
 **Contributions:**  
 - 🟩 **90%** of my contributions are to open-source projects.
