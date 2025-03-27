@@ -19,18 +19,6 @@ I'm an **Electrical Engineering** student, with a strong interest in **Computer 
 
 ---
 
-### 📊 **GitHub Stats**
-
-**Contributions:**  
-- 🟩 **90%** of my contributions are to open-source projects.
-
-**Commits:**  
-- 🔵 **75%** of my commits are in Python, contributing to several machine learning and hardware simulation projects.
-
-**Languages:**  
-- 🟣 **60%** of my code is in C/C++, used primarily for low-level hardware design.
-- 🟠 **25%** is in Python, working on AI models and data analysis.
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbakahAlexander&layout=compact&theme=radical)
 
 ---
@@ -38,7 +26,7 @@ I'm an **Electrical Engineering** student, with a strong interest in **Computer 
 ### 🌱 Currently Learning  
 - **Advanced Microarchitecture** (Cache Design, Out-of-Order Execution)  
 - **Full-Stack Development** (Backend for AI-driven apps)  
-- **Building an OS from Scratch**  
+- **System level projects**  
 
 ---
 
