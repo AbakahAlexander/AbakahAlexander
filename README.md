@@ -22,7 +22,7 @@ I'm an **Electrical Engineering** student at **Caltech**, with a strong interest
 ### 📊 **GitHub Stats (Percentages Simulation)**
 
 **Contributions:**  
-- 🟩 **90%** of my contributions are to open-source projects, based on this week's activity.
+- 🟩 **90%** of my contributions are to open-source projects.
 
 **Commits:**  
 - 🔵 **75%** of my commits are in Python, contributing to several machine learning and hardware simulation projects.
@@ -43,10 +43,7 @@ I'm an **Electrical Engineering** student at **Caltech**, with a strong interest
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
-[![Personal Website](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-a-519445204/)  
 
----
 
-⚡ **Fun Fact:** I represented **Ghana** in the 2021 **Afrobasket Championship** and reached the **quarterfinals**! 🏀🔥  
+
