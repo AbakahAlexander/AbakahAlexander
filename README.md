@@ -2,7 +2,7 @@
 
 ### 🚀 Passionate about Hardware, Software & AI  
 
-I'm an **Electrical Engineering** student at **Caltech**, with a strong interest in **Computer Science**, **AI**, and **Microarchitecture**. I love building **hardware-software bridges**, working on **circuit simulation**, **processor design**, and **AI-driven applications**.
+I'm an **Electrical Engineering** student, with a strong interest in **Computer Science**, **AI**, and **Microarchitecture**. I love building **hardware-software bridges**, working on **circuit simulation**, **processor design**, and **AI-driven applications**.
 
 ---
 
